@@ -49,6 +49,10 @@ icon = "fab fa-facebook"
 link = "https://www.facebook.com/rakibnsajib.brur/"
 title = "facebook"
 [[social]]
+icon = "fab fa-github"
+link = "https://github.com/RakibNSajib"
+title = "github"
+[[social]]
 icon = "fab fa-twitter"
 link = "#"
 title = "twitter"
@@ -56,10 +60,6 @@ title = "twitter"
 icon = "fab fa-instagram"
 link = "#"
 title = "instagram"
-[[social]]
-icon = "fab fa-github"
-link = "#"
-title = "github"
 [[social]]
 icon = "fab fa-linkedin"
 link = "#"
